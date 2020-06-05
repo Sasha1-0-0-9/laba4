@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\laba4_4\laba4_4\bin\Debug\laba4_4.exe.config
+C:\Users\asus\source\repos\laba4_4\laba4_4\bin\Debug\laba4_4.exe
+C:\Users\asus\source\repos\laba4_4\laba4_4\bin\Debug\laba4_4.pdb
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.Form1.resources
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.Properties.Resources.resources
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.exe
+C:\Users\asus\source\repos\laba4_4\laba4_4\obj\Debug\laba4_4.pdb
